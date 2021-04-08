@@ -4,6 +4,8 @@ GINO PEPI
 
 experiencia laboral:
 mc donalds
+starbucks
+rappi
 
 titulos:
 Ingeniero aero espacial
